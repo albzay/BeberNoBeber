@@ -25,7 +25,6 @@ public class SplashActivity extends ActionBarActivity {
         }
     }
 
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         
@@ -50,7 +49,6 @@ public class SplashActivity extends ActionBarActivity {
      * A placeholder fragment containing a simple view.
      */
     public static class PlaceholderFragment extends Fragment {
-
         public PlaceholderFragment() {
         }
 
@@ -61,5 +59,4 @@ public class SplashActivity extends ActionBarActivity {
             return rootView;
         }
     }
-
 }
